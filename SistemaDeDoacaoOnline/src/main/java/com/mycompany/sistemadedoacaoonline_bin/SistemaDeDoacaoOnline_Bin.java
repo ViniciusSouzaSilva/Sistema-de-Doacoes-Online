@@ -2,13 +2,13 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  */
 
-package com.mycompany.sistemadedoacoesonline;
+package com.mycompany.sistemadedoacaoonline_bin;
 
 /**
  *
- * @author Windows 10
+ * @author Eduardo Bin
  */
-public class SistemaDeDoacoesOnline {
+public class SistemaDeDoacaoOnline_Bin {
 
     public static void main(String[] args) {
         System.out.println("Hello World!");
